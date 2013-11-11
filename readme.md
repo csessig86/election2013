@@ -19,3 +19,5 @@ The night of the election, we used Tabletop, which allowed us to enter the elect
 For instructions on exporting Google spreadsheet data into JSON, [click here](https://github.com/csessig86/tabletop-handlebars-clean-slate/blob/master/static.md).
 
 To see our Google spreadsheet that powered our app, [click here](https://docs.google.com/spreadsheet/ccc?key=0As3JvOeYDO50dHJITmhNWXRUc3FYMFI4emZhWTU0SlE&usp=drive_web#gid=1).
+
+More information on our workflow for this app is [http://csessig.wordpress.com/2013/11/10/how-we-used-a-google-spreadsheet-to-power-our-election-app/](available here).
